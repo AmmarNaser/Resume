@@ -15,7 +15,7 @@ B.S in Mechatronic Engineering
 ## Work Experience
 
 ### Smart Kids, Contract , June 2012 - Dec 2015
-### Arduino Trainer 
+***Arduino Trainer*** 
 - My role involved instructing kids about Arduino kit.
 - Built multiple Arduino projects with kids.
 
