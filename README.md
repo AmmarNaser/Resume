@@ -1,7 +1,7 @@
 # Ammar Abdel Naser Taghian
-Cairo, EG 
-(+20) 1023571746 
-ammarabdelnasertag@gmail.com  
+Cairo, EG <br/>
+(+20) 1023571746 <br/> 
+ammarabdelnasertag@gmail.com <br/>  
 [LinkedIn](https://www.linkedin.com/in/ammarelnasser/)  
 [GitHub](https://github.com/AmmarNaser)
 
