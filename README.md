@@ -15,7 +15,7 @@ B.S in Mechatronic Engineering
 ## Work Experience
 
 ### Smart Kids, *Contract , June 2012 - Dec 2015*
-***Arduino Trainer*** 
+****Arduino Trainer**** 
 - My role involved instructing kids about Arduino kit.
 - Built multiple Arduino projects with kids.
 
@@ -24,7 +24,7 @@ B.S in Mechatronic Engineering
 - Designed 3D mechanical parts.
 
 ### Sprints.ai ,*Part Time, Mars 2022 – Jun 2022*
-___Software Engineer Trainee___
+____Software Engineer Trainee____
 - Working on some web applications. 
 - Training on agile concepts.
 
@@ -37,17 +37,17 @@ ___Software Engineer Trainee___
 
 ## Projects
 
-### [E-Commerce Application](https://master-ec.herokuapp.com/) (2022)
+### [E-Commerce Application](https://master-ec.herokuapp.com/) *(2022)*
 - As a contributor: [E-commerce](https://github.com/Darkmax512/E-Commerce-Application.git).
 - Developing an E-commerce application with user management.
 - Skills: React, Redux, Node.js, Tailwind CSS.
-### [DIA website](https://diaegy.com/) (…under development)
+### [DIA website](https://diaegy.com/) *(under development)*
 - Designed and developed a single page application for DIA institute that helps to advertise and manage booking process.
 - Skills: React, Node.js.
-### Would-you-rather (2022)
+### Would-you-rather *(2022)*
 - Developed a quiz game application that allows users make easy MCQ exams.
 - Skills: React, Redux, Node.js, React bootstrap.
-### Evaluate-New-Articles (2022)
+### Evaluate-New-Articles *(2022)*
 - Developed an API integration with meaning cloud which allows users to run NLP on articles to get some sentimental insights.
 - Skills: React, Node.js, Express, Webpack, Postman, Using APIs.
 
