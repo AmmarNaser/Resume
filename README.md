@@ -14,7 +14,7 @@ B.S in Mechatronic Engineering
 
 ## Work Experience
 
-### Smart Kids, 
+### Smart Kids, EG
 *Contract , June 2012 - Dec 2015* <br/>
 ****Arduino Trainer**** 
 - My role involved instructing kids about Arduino kit.
@@ -25,7 +25,7 @@ B.S in Mechatronic Engineering
 ****SolidWorks Designer****
 - Designed 3D mechanical parts.
 
-### Sprints.ai ,
+### Sprints.ai ,EG
 *Part Time, Mars 2022 – Jun 2022* <br/>
 ____Software Engineer Trainee____
 - Working on some web applications. 
