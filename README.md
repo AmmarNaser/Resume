@@ -14,16 +14,19 @@ B.S in Mechatronic Engineering
 
 ## Work Experience
 
-### Smart Kids, *Contract , June 2012 - Dec 2015*
+### Smart Kids, 
+*Contract , June 2012 - Dec 2015*
 ****Arduino Trainer**** 
 - My role involved instructing kids about Arduino kit.
 - Built multiple Arduino projects with kids.
 
-### Al-Hamd Steel, *Contract, Jan 2020 – May 2022*
+### Al-Hamd Steel, EG 
+*Contract, Jan 2020 – May 2022*
 ****SolidWorks Designer****
 - Designed 3D mechanical parts.
 
-### Sprints.ai ,*Part Time, Mars 2022 – Jun 2022*
+### Sprints.ai ,
+*Part Time, Mars 2022 – Jun 2022*
 ____Software Engineer Trainee____
 - Working on some web applications. 
 - Training on agile concepts.
